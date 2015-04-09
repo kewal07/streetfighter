@@ -1,9 +1,6 @@
 body{
 	background: black;
 }
-* {
-  outline: red 1px solid;
-}
 #ryuWrapper{
 	width:100%;
 	background: white;
